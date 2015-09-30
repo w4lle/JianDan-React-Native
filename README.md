@@ -5,8 +5,10 @@ My first RN app.
 #Like this
 * List
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn0.png" width="300">
+
 * drawer Menu
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png" width="300">
+
 * The content
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png" width="300">
 
