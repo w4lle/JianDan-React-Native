@@ -3,11 +3,11 @@ This is A [Jiandan](jandan.net) App client implemented using React Native for An
 
 #Like this
 ###List
-<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn0.png" width="100">
+<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn0.png" width="300">
 ###drawer Menu
-<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png">
+<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png" width="300">
 ###The content
-<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png">
+<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png" width="300">
 
 #Thanks to
 [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
