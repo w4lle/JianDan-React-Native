@@ -18,6 +18,7 @@ var {
 
 var TimerMixin = require('react-timer-mixin');
 var NewsItem = require('./NewsItem');
+var DrawerList = require('./DrawerList');
 
 var DRAWER_WIDTH_LEFT = 56;
 
@@ -73,9 +74,8 @@ var ListScreen = React.createClass({
         );
       } else {
         return (
-          <Text style={styles.sectionHeader}>
-            {'新鲜事'}
-          </Text>
+          <View>
+          </View>
         );
       }
     },
@@ -118,6 +118,15 @@ var ListScreen = React.createClass({
       page ++;
       this.fetchData(false);
     },
+  onSelectDrawerItem: function(menuId: number){
+
+  },
+  _renderNavigationView: function(){
+    return(
+      <DrawerList
+        onSelectItem={this.onSelectDrawerItem}/>
+    );
+  },
   render: function() {
       var content = this.state.dataSource.getRowCount() === 0 ?
         <View style={styles.container}></View> :
@@ -139,7 +148,7 @@ var ListScreen = React.createClass({
             drawerWidth={Dimensions.get('window').width - DRAWER_WIDTH_LEFT}
             keyboardDismissMode="on-drag"
             drawerPosition={DrawerLayoutAndroid.positions.Left}
-            renderNavigationView={() => <Text>jiandan</Text>}>
+            renderNavigationView={this._renderNavigationView}>
             <View style={styles.container}>
               <ToolbarAndroid
                 title={title}
