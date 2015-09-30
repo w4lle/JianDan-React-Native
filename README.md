@@ -2,11 +2,11 @@
 This is A [Jiandan](jandan.net) App client implemented using React Native for Android.
 
 #Like this
-List
-<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn0.png">
-drawer Menu
+###List
+<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn0.png" width="100">
+###drawer Menu
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png">
-The content
+###The content
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png">
 
 #Thanks to
