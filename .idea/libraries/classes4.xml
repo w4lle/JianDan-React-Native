@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

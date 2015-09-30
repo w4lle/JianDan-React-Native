@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/0.11.0.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/0.11.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/23.0.0.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/23.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/23.0.0.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/23.0.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JianDanReactNative.iml" filepath="$PROJECT_DIR$/.idea/JianDanReactNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/android/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/android/app/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/r174650.iml" filepath="$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/r174650.iml" />
     </modules>
   </component>
 </project>

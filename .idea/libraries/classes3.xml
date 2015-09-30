@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

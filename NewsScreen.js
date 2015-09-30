@@ -144,6 +144,7 @@ var ListScreen = React.createClass({
               <ToolbarAndroid
                 title={title}
                 titleColor="white"
+                navIcon={require('image!ic_drawer')}
                 style={styles.toolbar}
                 onIconClicked={() => this.drawer.openDrawer()}
                 onActionSelected={this.onActionSelected} />
@@ -161,7 +162,7 @@ var styles = StyleSheet.create({
     backgroundColor: '#FAFAFA',
   },
   toolbar: {
-    backgroundColor: '#00a2ed',
+    backgroundColor: '#000000',
     height: 56,
   },
   rator: {

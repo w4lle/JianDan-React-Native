@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-ac48a3d3cc259e10adc1c4c5f7ff4ea31c1860b1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-4ec9b14ea6ac298de6b80cb1b8b7e4591307a90d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-9dc0dc0373a8bf8e6f179b6d3847863436819713.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-3502c3361778a29fe7c28e350bc74fa39b8e264f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-ab8202753d645753c8adbc4ac33831012a786ba3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-8c3ec33d014e10ad932feb67b1e2b80d3ab13a96.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-10981624ef4401b03d6a8f1d7df4e7a802cb0446.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-055acad35991a1359c0f2bf535a3f0261cb29774.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-17e3aa68278119f689bf5324ee1ad5fb2cd28a22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-648a9881fd0006b99ce2c50721eb468cf9224f9d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-22ff380c75f4b58f4c8e24224768f7bff86f8c02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-babe111600a4ceed64264a0567b5e55ac7072b44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-518ec7f430b68f1ef5b7798f4bc3c4a24dd77a2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-2d0698a1fcbd2c83612ef3d15500030f41a17968.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-c61aa1744402cdb2f82be839ca8c4420d466baf3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-0065ffeb014427bd50c6cef929c3dbe8b64efd1f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-cf8b05725b1359d2849a06a67d022910b251cd5a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes-68e9716250439539f2e9a87093047d73e0ebdc20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

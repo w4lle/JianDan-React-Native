@@ -12,12 +12,13 @@ var {
   TouchableHighlight,
 } = React;
 
+var MyWebView = require('./WebView');
 var precomputeStyle = require('precomputeStyle');
 
-var WebView = require('./WebView');
 var DetailToolbar = require('./DetailToolbar');
 var REF_HEADER = 'header';
 var PIXELRATIO = PixelRatio.get();
+
 
 var NewsDetailScreen = React.createClass({
   getInitialState: function() {
@@ -25,39 +26,37 @@ var NewsDetailScreen = React.createClass({
       isLoading: false,
       detail: null,
       scrollY: 0,
+      url: null,
     });
   },
   componentDidMount: function() {
     this.fetchStroyDetail();
   },
   fetchStroyDetail: function() {
-    var reqUrl = this.props.news.url;
     this.setState({
       isLoading: true,
       detail: null,
+      url: this.props.news.url,
     });
   },
   onWebViewScroll: function(event) {
     //console.log('ScrollY: ' + event);
-    var scrollY = -event / PIXELRATIO;
-    var nativeProps = precomputeStyle({transform: [{translateY: scrollY}]});
-    this.refs[REF_HEADER].setNativeProps(nativeProps);
+    //var scrollY = -event / PIXELRATIO;
+    //var nativeProps = precomputeStyle({transform: [{translateY: scrollY}]});
+    //this.refs[REF_HEADER].setNativeProps(nativeProps);
   },
   render: function() {
     var toolbar = <DetailToolbar navigator={this.props.navigator} style={styles.toolbar}
       news={this.props.news}/>;
         return (
-          <View {...this.props} style={styles.container}>
-            <WebView
-            automaticallyAdjustContentInsets={false}
-            url={this.props.news.url}
-            javaScriptEnabledAndroid={true}
-            onNavigationStateChange={this.onNavigationStateChange}
-            startInLoadingState={true}
-            scalesPageToFit={this.state.scalesPageToFit}
+          <View {...this.props}>
+            <View style={styles.container}>
+            <MyWebView
+            url={this.state.url}
             style={styles.content}
             onScrollChange={this.onWebViewScroll}/>
             {toolbar}
+            </View>
           </View>
         );
     },
@@ -65,7 +64,7 @@ var NewsDetailScreen = React.createClass({
 
 var styles = StyleSheet.create({
   toolbar: {
-    backgroundColor: '#00a2ed',
+    backgroundColor: '#000000',
     height: 56,
     position: 'absolute',
     left: 0,
