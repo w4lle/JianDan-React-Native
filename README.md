@@ -10,9 +10,12 @@ This is A [Jiandan](jandan.net) App client implemented using React Native for An
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png" width="300">
 
 #Thanks to
-[React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
-[凯子哥的知乎API](http://blog.csdn.net/zhaokaiqiang1992/article/details/45038125)
-[感谢煎蛋的开发者DanielWangDev](http://m.weibo.cn/u/1749949233)
+
+[React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/) 
+
+[凯子哥的知乎API](http://blog.csdn.net/zhaokaiqiang1992/article/details/45038125) 
+
+[感谢煎蛋的开发者DanielWangDev](http://m.weibo.cn/u/1749949233) 
 
 #License
 /*
