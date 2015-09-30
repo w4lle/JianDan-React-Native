@@ -2,8 +2,10 @@
 This is A [Jiandan](jandan.net) App client implemented using React Native for Android.
 
 #Like this
+## drawer Menu
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png">
-<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png1">
+##The content
+<img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png">
 
 #Thanks to
 [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
