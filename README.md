@@ -40,6 +40,8 @@ This is A [Jiandan](jandan.net) App client implemented using React Native for An
 
 [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/) 
 
+[React Native: Android 的打包](http://liaohuqiu.net/cn/posts/react-native-android-package/)
+
 [凯子哥的煎蛋API](http://blog.csdn.net/zhaokaiqiang1992/article/details/45038125) 
 
 [感谢煎蛋的开发者DanielWangDev](http://m.weibo.cn/u/1749949233) 
