@@ -1,12 +1,13 @@
 # JianDan-React-Native
 This is A [Jiandan](jandan.net) App client implemented using React Native for Android.
+My first RN app.
 
 #Like this
-###List
+* List
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn0.png" width="300">
-###drawer Menu
+* drawer Menu
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn.png" width="300">
-###The content
+* The content
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png" width="300">
 
 #How to run
@@ -19,12 +20,12 @@ This is A [Jiandan](jandan.net) App client implemented using React Native for An
 * Direct Manipulation
 * Native UI Components(Native WebView)
 * DrawerLayoutAndroid
- * Image/Text/ListView
- * TouchableHighlight/TouchableNativeFeedback
- * ToolbarAndroid/Navigator
- * StyleSheet/ToastAndroid/BackAndroid
- * Timers
- * Animations
+* Image/Text/ListView
+* TouchableHighlight/TouchableNativeFeedback
+* ToolbarAndroid/Navigator
+* StyleSheet/ToastAndroid/BackAndroid
+* Timers
+* Animations
 
 
 #Todo list
