@@ -1,2 +1,7 @@
 # JianDan-React-Native
-Jiandan App client implemented using React Native for Android.
+This is A [Jiandan](jandan.com) App client implemented using React Native for Android.
+
+#Like this
+
+
+
