@@ -9,24 +9,29 @@ This is A [Jiandan](jandan.net) App client implemented using React Native for An
 ###The content
 <img src="https://github.com/w4lle/JianDan-React-Native/blob/master/rn1.png" width="300">
 
+#How to run
+* JianDanReactNative git:(master) ✗>./build-and-install-react-native-gradle-plugin.sh
+* build android project with gradle
+
+
 #Related content
-> * Flex Style
-> * Direct Manipulation
-> * Native UI Components(Native WebView)
-> * DrawerLayoutAndroid
-> * Image/Text/ListView
-> * TouchableHighlight/TouchableNativeFeedback
-> * ToolbarAndroid/Navigator
-> * StyleSheet/ToastAndroid/BackAndroid
-> * Timers
-> * Animations
+* Flex Style
+* Direct Manipulation
+* Native UI Components(Native WebView)
+* DrawerLayoutAndroid
+ * Image/Text/ListView
+ * TouchableHighlight/TouchableNativeFeedback
+ * ToolbarAndroid/Navigator
+ * StyleSheet/ToastAndroid/BackAndroid
+ * Timers
+ * Animations
 
 
 #Todo list
-> * install package
-> * meizi tu
-> * wuliaotu
-> * duanzi
+* ~~install package~~
+* meizi tu
+* wuliaotu
+* duanzi
 
 
 #Thanks to
@@ -40,7 +45,7 @@ This is A [Jiandan](jandan.net) App client implemented using React Native for An
 [感谢煎蛋的开发者DanielWangDev](http://m.weibo.cn/u/1749949233) 
 
 
-if you like it, welcome star & pull request
+*** if you like it, welcome star & pull request ***
 
 #License
 /*
