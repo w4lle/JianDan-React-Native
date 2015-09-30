@@ -53,7 +53,7 @@ My first RN app.
 [感谢煎蛋的开发者DanielWangDev](http://m.weibo.cn/u/1749949233) 
 
 
-*** if you like it, welcome star & pull request ***
+***if you like it, welcome star & pull request***
 
 #License
 /*
