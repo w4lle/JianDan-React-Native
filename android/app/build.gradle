@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.facebook.react'
 
 android {
     compileSdkVersion 23
@@ -21,6 +22,30 @@ android {
         }
     }
 }
+
+react {
+    bundleFileName "index.android.bundle"   // assets 目录下 js 文件名
+    bundlePath "/index.android.bundle"      // js 路径
+    jsRoot "../"                            // js 源文件位置
+    packagerHost "localhost:8081"           // debug server 地址
+    packagerCommand "./node_modules/react-native/packager/packager.sh"  // 打包命令地址
+
+    devParams {
+        skip false
+        dev true
+        inlineSourceMap false
+        minify false
+        runModule true
+    }
+    releaseParams {
+        skip false
+        dev false
+        inlineSourceMap false
+        minify true
+        runModule true
+    }
+}
+
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
